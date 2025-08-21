@@ -1,3 +1,4 @@
+/206反转链表
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -35,7 +36,6 @@ public:
             cur->next=pre;
             pre=cur;
             cur=tmp;
-            
         }
         return pre;
         */
