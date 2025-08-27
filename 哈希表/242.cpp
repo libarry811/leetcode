@@ -1,3 +1,4 @@
+/242.有效的字母异位词
 class Solution {
 public:
     bool isAnagram(string s, string t) 
